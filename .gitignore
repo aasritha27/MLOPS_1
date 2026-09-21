@@ -22,4 +22,3 @@ mlflow.db
 
 # Ignore locally generated artifact plots and reports
 artifacts/
-# Temporary Lab 3 rollback demonstration
